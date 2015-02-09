@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7ktsjw.com1.z0.glb.clouddn.com/YouShiXiu_enterprise_2.1.15_release.ipa</string>
+					<string>http://www.recscreen.com/ios_download/recscreen.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://7ktsjw.com1.z0.glb.clouddn.com/largeImage.png</string>
+					<string>http://www.recscreen.com/ios_download/largeImage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://7ktsjw.com1.z0.glb.clouddn.com/smallImage.png</string>
+					<string>http://www.recscreen.com/ios_download/smallImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
