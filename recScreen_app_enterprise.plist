@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.youshixiu.gameshow</string>
+				<string>com.youshixiu.RecScreen</string>
 				<key>bundle-version</key>
-				<string>2.1.10</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
