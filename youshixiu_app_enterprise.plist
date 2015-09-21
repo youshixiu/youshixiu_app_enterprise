@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.youshixiu.gameshow</string>
+				<string>cn.vlang.GameShow</string>
 				<key>bundle-version</key>
-				<string>2.1.23.1</string>
+				<string>2126</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
