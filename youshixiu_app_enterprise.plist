@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.recscreen.com/ios_download/youshixiu.ipa</string>
+					<string>https://raw.githubusercontent.com/youshixiu/CherryTV/master/CherryTV_20160116.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://7ktsjw.com1.z0.glb.clouddn.com/largeImage.png</string>
+					<string>https://raw.githubusercontent.com/youshixiu/CherryTV/master/largeImage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://7ktsjw.com1.z0.glb.clouddn.com/smallImage.png</string>
+					<string>https://raw.githubusercontent.com/youshixiu/CherryTV/master/smallImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>cn.vlang.GameShow</string>
 				<key>bundle-version</key>
-				<string>2126</string>
+				<string>2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>游视秀</string>
+				<string>樱桃TV</string>
 				<key>title</key>
-				<string>游视秀</string>
+				<string>樱桃TV</string>
 			</dict>
 		</dict>
 	</array>
