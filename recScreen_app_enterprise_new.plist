@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.youshixiu.NewRecScreen</string>
+				<string>com.youshixiu.newRecScreen</string>
 				<key>bundle-version</key>
 				<string>2.1.1</string>
 				<key>kind</key>
