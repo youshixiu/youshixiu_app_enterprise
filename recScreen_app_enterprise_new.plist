@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7ktsjw.com1.z0.glb.clouddn.com/recscreen_new.ipa?0713</string>
+					<string>http://7ktsjw.com1.z0.glb.clouddn.com/recscreen_new.ipa?0721</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.youshixiu.newRecScreen</string>
 				<key>bundle-version</key>
-				<string>2.1.6</string>
+				<string>2.1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>苹果录屏专家</string>
+				<string>直播助手</string>
 				<key>title</key>
-				<string>苹果录屏专家</string>
+				<string>直播助手</string>
 			</dict>
 		</dict>
 	</array>
